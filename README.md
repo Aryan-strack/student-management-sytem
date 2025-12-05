@@ -563,7 +563,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or need support:
 
-- **Email**: your.email@example.com
+- **Email**: aryanahmad478@gmail.com
 - **GitHub Issues**: [Create an issue](https://github.com/yourusername/student-management-system/issues)
 
 ---
